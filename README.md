@@ -1,2 +1,3 @@
 # todo-list-react
-Created with CodeSandbox
+This is react todo list. That will create your todo list for you.
+
